@@ -1,8 +1,7 @@
 # Let's Get Started !
 
 ---
-@snap[north-west]
-## Introduction - business problem.
+@title[Introduction - business problem.]
 
 @snap[north-west text-05]
 - Assume you are a global investor in field of gastronomy and you are looking to open a chain of restaurants in biggest cities in Europe. Many cities...
