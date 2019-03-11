@@ -3,7 +3,7 @@
 ---
 @title[Introduction - business problem.]
 
-@snap[north span-50 text-05]
+@snap[north west-20 text-05]
 - Assume you are a global investor in field of gastronomy and you are looking to open a chain of restaurants in biggest cities in Europe. Many cities...
 
 - Obviously you don not know every single city, and actually don't know where to locate your restaurants. Whether it's good idea to invest only in city centers, or maybe most of restaurants are hidden in some specific districts.
