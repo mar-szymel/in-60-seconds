@@ -1,6 +1,7 @@
 # Let's Get Started !
 
 ---
+@snap[north-west]
 ## Introduction - business problem.
 
 @snap[north-west text-05]
