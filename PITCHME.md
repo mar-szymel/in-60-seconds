@@ -32,8 +32,8 @@
 ##### Scrapped postal codes of Warsaw city
 @snapend
 
-@snap[east span-50]
-![](assets/img/map1.png)
+@snap[east span-5]
+![](assets/img/map1s.png)
 @snapend
 
 ---?color=#E58537
