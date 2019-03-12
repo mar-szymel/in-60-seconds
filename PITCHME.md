@@ -32,7 +32,7 @@
 ##### Scrapped postal codes of Warsaw city
 @snapend
 
-@snap[east span-5]
+@snap[east span-30]
 ![](assets/img/map1s.png)
 @snapend
 
