@@ -5,7 +5,7 @@
 #### **Introduction - business problem**
 
 ![](assets/img/presentation.png)
-
+---
 @snaped
 
 @snap[west span text-04]
