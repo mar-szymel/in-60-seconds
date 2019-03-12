@@ -54,7 +54,7 @@
 
 ---
 @title[Customize Slide Layout]
-@snap[west span-30]
+@snap[west span-50  text-05]
 @ul[spaced]
 - Data obtained from Foursqare API - list of nearby venues with their categories).
 - Used mainly Pandas to prepare data 
