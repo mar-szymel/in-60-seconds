@@ -7,12 +7,17 @@
 
 
 ---
+@snap[north west span]
 #### **Introduction - business problem**
+@snaped
+
 @snap[west span text-06]
 @ul[spaced]
 - Assume you are a global investor in field of gastronomy and you are looking to **open a chain of restaurants** in biggest cities in Europe. Many cities...
 
+
 - Obviously you don not know every single city, and actually don't know **where to locate your restaurants**. Whether it's good idea to invest only in city centers, or maybe most of restaurants are hidden in some specific districts.
+
 
 - The aim of this analysis if to **automatically find area of city with biggest density of restaurants and nightlife facilities using segmentation**. I'll be profiling districts of Warsaw (capital city of Poland) as a small prof of concept because I know the city and can verify whether findings from segmentation looks reasonable or not.
 @ulend
