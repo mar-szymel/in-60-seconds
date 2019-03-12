@@ -22,14 +22,18 @@
 
 ---
 
+# Data used to solve the problem
+
+---
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize Slide Content Layout
+##### Scrapped postal codes of Warsaw city
 @snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+![](https://github.com/mar-szymel/Coursera_Capstone/blob/master/files/map1.png)
 @snapend
 
 ---?color=#E58537
