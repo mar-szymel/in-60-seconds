@@ -85,7 +85,6 @@
 @ul[spaced]
 - Used K-means algorythym to find similar clusters - districts /(postal codes) 
 - Similar to each other inside clusters, and differentas much as possible among clusters
-- Wrangle them, join, make one-hote encoding, aggregate
 - Profile each cluster and look at percentage of categories among 1st most common vanues
 @snapend
 @ulend
