@@ -1,6 +1,6 @@
 # Let's Get Started !
 
----
+---?color=#E58537
 ### **Introduction - business problem**
 
 ![](assets/img/presentation.png)
@@ -20,7 +20,7 @@
 @ulend
 @snapend
 
----
+---?color=#E58537
 
 ## Data used to solve the problem
 
@@ -48,7 +48,7 @@
 ![](assets/img/4s.png)
 @snapend
 
----
+---?color=#E58537
 
 ## Data preparation
 
@@ -67,6 +67,32 @@
 ![](assets/img/one_hot_grouped2.png)
 @snapend
 
+
+---?color=#E58537
+
+## Clustering - K-means
+
+---
+
+@title[Customize Slide Layout]
+
+@snap[west span-50]
+![](assets/img/map2s_clusters.png)
+@snapend
+
+
+@snap[east span-50  text-06]
+@ul[spaced]
+- Used K-means algorythym to find similar clusters - districts /(postal codes) 
+- Similar to each other inside clusters, and differentas much as possible among clusters
+- Wrangle them, join, make one-hote encoding, aggregate
+- Profile each cluster and look at percentage of categories among 1st most common vanues
+@snapend
+@ulend
+
+---?color=#E58537
+
+## Results - findings!
 
 ---
 
