@@ -63,7 +63,7 @@
 @snapend
 @ulend
 
-@snap[east span-60]
+@snap[east span-50]
 ![](assets/img/one_hot_grouped2.png)
 @snapend
 
