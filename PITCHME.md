@@ -7,7 +7,7 @@
 
 
 ---
-
+@title[Customize Slide Layout]
 @snap[west span text-06]
 @ul[spaced]
 - Assume you are a global investor in field of gastronomy and you are looking to **open a chain of restaurants** in biggest cities in Europe. Many cities...
@@ -48,6 +48,25 @@
 ![](assets/img/4s.png)
 @snapend
 
+---
+
+## Data preparation
+
+---
+@title[Customize Slide Layout]
+@snap[west span text-06]
+@ul[spaced]
+- Having data obtained from Foursqare API (list of nearby venues with their categories), I've used mainly Pandas to prepare data - wrangle them, join, make one-hote encoding, aggregate..
+
+- And finally find most common venues in each district/postal code
+@ulend
+@snapend
+
+@snap[east south-50]
+![](assets/img/one_hot_grouped2.png)
+@snapend
+
+---
 
 
 
