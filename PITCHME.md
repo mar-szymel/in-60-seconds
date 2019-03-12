@@ -7,8 +7,6 @@
 
 
 ---
-@snap[north span]
-#### **Introduction - business problem**
 
 @snap[west span text-06]
 @ul[spaced]
