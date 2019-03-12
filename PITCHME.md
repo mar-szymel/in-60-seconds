@@ -22,7 +22,7 @@
 
 ---
 
-# Data used to solve the problem
+## Data used to solve the problem
 
 ---
 
@@ -33,7 +33,7 @@
 @snapend
 
 @snap[east span-50]
-![](https://github.com/mar-szymel/Coursera_Capstone/blob/master/files/map1.png)
+![](assets/img/map1.png)
 @snapend
 
 ---?color=#E58537
