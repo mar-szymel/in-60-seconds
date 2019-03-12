@@ -7,7 +7,7 @@
 
 
 ---
-@snap[north west span]
+@snap[north span]
 #### **Introduction - business problem**
 @snaped
 
@@ -24,6 +24,7 @@
 @snapend
 
 ---
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
