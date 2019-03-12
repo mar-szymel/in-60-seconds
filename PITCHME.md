@@ -3,13 +3,15 @@
 ---
 @snap[north west text-05]
 ### **Introduction - business problem (1/2)**
-
+@snapend
+@snap[north west text-05]
 * Assume you are a global investor in field of gastronomy and you are looking to open a chain of restaurants in biggest cities in Europe. Many cities...
 
 * Obviously you don not know every single city, and actually don't know where to locate your restaurants. Whether it's good idea to invest only in city centers, or maybe most of restaurants are hidden in some specific districts.
 @snapend
+@snap[north west text-05]
 ![](assets/img/presentation.png)
-
+@snapend
 
 ---
 @snap[north west text-05]
