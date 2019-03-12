@@ -54,15 +54,14 @@
 
 ---
 @title[Customize Slide Layout]
-@snap[west span text-04]
+@snap[west span text-05]
 @ul[spaced]
-- Having data obtained from Foursqare API (list of nearby venues with their categories), I've used mainly Pandas to prepare data - wrangle them, join, make one-hote encoding, aggregate..
+- Data obtained from Foursqare API - list of nearby venues with their categories).
+- Used mainly Pandas to prepare data 
+- Wrangle them, join, make one-hote encoding, aggregate
+- Finally find most common venues in each district/postal code
 
-- And finally find most common venues in each district/postal code
-
-@snapend
-
-@snap[east span-20]
+@snap[east span-30]
 ![](assets/img/one_hot_grouped2.png)
 @snapend
 @ulend
