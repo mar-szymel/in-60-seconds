@@ -2,9 +2,10 @@
 
 ---
 #### **Introduction - business problem**
-@snap[text-01]
+@snap[size-01]
 ![](assets/img/presentation.png)
 @snaped
+
 ---
 @snap[west span text-05]
 @ul[spaced]
