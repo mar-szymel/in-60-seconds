@@ -32,9 +32,24 @@
 ##### Scrapped postal codes of Warsaw city
 @snapend
 
-@snap[east span-30]
+@snap[east span-50]
 ![](assets/img/map1s.png)
 @snapend
+
+---
+
+@title[Customize Slide Layout]
+
+@snap[west span-50]
+##### Foursqare location data via developers API
+@snapend
+
+@snap[east span-50]
+![](assets/img/4s.png)
+@snapend
+
+
+
 
 ---?color=#E58537
 @title[Add A Little Imagination]
