@@ -128,10 +128,10 @@ Cluster 6 - not in very city center, but good for sam cafe's, inexpensive food p
 @snapend
 
 ---
-Cluster 2 - small one... Perhaps shoud be merged with some other cluster...
-Cluster 3/4/5 - remote districts. Good for pizza/burger, rather than elegant restaurant/drink bar.
-Cluster 7 - stores, gym, etc.
-Cluster 8 and 9 - recreation areas.
+* Cluster 2 - small one... Perhaps shoud be merged with some other cluster...
+* Cluster 3/4/5 - remote districts. Good for pizza/burger, rather than elegant restaurant/drink bar.
+* Cluster 7 - stores, gym, etc.
+* Cluster 8 and 9 - recreation areas.
 
 ---?color=#E58537
 @title[Add A Little Imagination]
