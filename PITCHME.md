@@ -92,10 +92,46 @@
 ---?color=#E58537
 
 ## Results - findings!
+---
+@title[Customize Slide Layout]
+
+@snap[west span-50]
+Cluster 0 - busy places. Lots of people. Good for fastfood/snacks places like "Subway" or others "takeaway's".
+@snapend
+
+@snap[east span-50]
+![](assets/img/bar_c0.png)
+@snapend
 
 ---
 
+@title[Customize Slide Layout]
 
+@snap[west span-50]
+Cluster 1 - best for restaurant. Mainly in downtown, but not always.
+@snapend
+
+@snap[east span-50]
+![](assets/img/bar_c1.png)
+@snapend
+
+---
+
+@title[Customize Slide Layout]
+
+@snap[west span-50]
+Cluster 6 - not in very city center, but good for sam cafe's, inexpensive food places. MIGHT BE BEST TO INVEST MONEY THERE!
+@snapend
+
+@snap[east span-50]
+![](assets/img/bar_c6.png)
+@snapend
+
+---
+Cluster 2 - small one... Perhaps shoud be merged with some other cluster...
+Cluster 3/4/5 - remote districts. Good for pizza/burger, rather than elegant restaurant/drink bar.
+Cluster 7 - stores, gym, etc.
+Cluster 8 and 9 - recreation areas.
 
 ---?color=#E58537
 @title[Add A Little Imagination]
