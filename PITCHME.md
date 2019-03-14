@@ -96,7 +96,7 @@
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-Cluster 0 - busy places. Lots of people. Good for fastfood/snacks places like "Subway" or others "takeaway's".
+Cluster 0 - busy places. Lots of people. Good for fastfood/snacks places like "Subway" or other "takeaway's".
 @snapend
 
 @snap[east span-50]
@@ -136,29 +136,16 @@ Cluster 6 - not in very city center, but good for sam cafe's, inexpensive food p
 ---?color=#E58537
 @title[Add A Little Imagination]
 
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
+#### Recommendations based on the results.
 
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
+---
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
+* Perhaps the most interesting cluster for investing money in food restauranst might by cluster no 6 - not in very city center (so not so pricy), but still with lot of gastro-venus and cafes!
 
----?image=assets/img/presenter.jpg
+* But also as a global investor we may think about some cheap/fastfood chain in places like in cluster no 0 - buzy places with lot of people.
 
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
+* And if we want to open some posh-pricey elegant place, cluster no 1 would be the best.
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+---?color=#E58537
+
+## THANKS FOR READING!
